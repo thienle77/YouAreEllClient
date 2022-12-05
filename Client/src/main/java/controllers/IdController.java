@@ -18,6 +18,8 @@ public class IdController {
         // create json from id
         // call server, get json result Or error
         // result json to Id obj
+        Id createdID;
+
 
         return null;
     }
